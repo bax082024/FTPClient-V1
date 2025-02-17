@@ -19,14 +19,14 @@ class FTPClient
         Console.WriteLine(Encoding.ASCII.GetString(buffer, 0, bytesRead));
 
         Console.Write("Enter username: ");
-        string username = Console.ReadLine();
+        string? username = Console.ReadLine();
         stream.Write(Encoding.ASCII.GetBytes(username + "\n"), 0, username.Length + 1);
 
         bytesRead = stream.Read(buffer, 0, buffer.Length);
         Console.WriteLine(Encoding.ASCII.GetString(buffer, 0, bytesRead));
 
         Console.Write("Enter password: ");
-        string password = Console.ReadLine();
+        string? password = Console.ReadLine();
         stream.Write(Encoding.ASCII.GetBytes(password + "\n"), 0, password.Length + 1);
 
         bytesRead = stream.Read(buffer, 0, buffer.Length);
@@ -43,12 +43,12 @@ class FTPClient
         while (true)
         {
             Console.Write("Enter command (LIST, UPLOAD, DOWNLOAD, QUIT): ");
-            string command = Console.ReadLine();
+            string? command = Console.ReadLine();
 
             if (command.ToLower().StartsWith("upload"))
             {
                 Console.Write("Enter path to file for upload: ");
-                string filePath = Console.ReadLine();
+                string? filePath = Console.ReadLine();
                 if (File.Exists(filePath)) UploadFile(stream, filePath);
                 else Console.WriteLine("File not found.");
                 continue;
@@ -57,9 +57,9 @@ class FTPClient
             if (command.ToLower().StartsWith("download"))
             {
                 Console.Write("Enter file name to download: ");
-                string fileName = Console.ReadLine();
+                string? fileName = Console.ReadLine();
                 Console.Write("Enter destination folder: ");
-                string folder = Console.ReadLine();
+                string? folder = Console.ReadLine();
                 if (Directory.Exists(folder)) DownloadFile(stream, fileName, folder);
                 else Console.WriteLine("Invalid folder path.");
                 continue;
