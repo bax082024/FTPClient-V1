@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\bin\Debug\net8.0\FTPClient-V1.exe
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\bin\Debug\net8.0\FTPClient-V1.deps.json
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\bin\Debug\net8.0\FTPClient-V1.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\bin\Debug\net8.0\FTPClient-V1.dll
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\bin\Debug\net8.0\FTPClient-V1.pdb
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.sourcelink.json
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.dll
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\refint\FTPClient-V1.dll
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.pdb
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\FTPClient-V1.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\FTPServer-V1\FTPClient-V1\obj\Debug\net8.0\ref\FTPClient-V1.dll
