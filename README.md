@@ -18,3 +18,23 @@ This project is a simple **FTP Server and Client** built with **C# (.NET 8)**, s
   - Handles user input for various commands with clear prompts.
 
 ---
+
+## **How to Run the Project**
+
+### **FTP Server**
+
+1. Clone the Repository :
+	- https://github.com/bax082024/FTPServer-V1.git
+2. cd FTPServer-V1
+3. dotnet run
+4. The server will start and wait for incoming client connections.
+
+### **FTP Client**
+
+1. Clone the Repository :
+	- https://github.com/bax082024/FTPClient-V1.git
+2. cd FTPClient-V1
+3. dotnet run
+4. Follow the prompts for username/password and commands.
+
+---
