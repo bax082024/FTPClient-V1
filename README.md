@@ -38,3 +38,15 @@ This project is a simple **FTP Server and Client** built with **C# (.NET 8)**, s
 4. Follow the prompts for username/password and commands.
 
 ---
+
+## **Usage**
+- **Login** with one of the default accounts:
+  - Username: `admin`, Password: `password123`
+- **Available Commands**:
+  - `LIST` – Lists all files on the server.
+  - `UPLOAD` – Upload a file from your machine.
+  - `DOWNLOAD` – Download a file from the server.
+  - `QUIT` – Disconnect from the server.
+
+---
+
